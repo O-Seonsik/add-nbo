@@ -3,6 +3,6 @@
 - https://gitlab.com/gilgil/sns/-/wikis/byte-order/report
 ### 제출파일
  - add-nbo/add-nbo/main.cpp
- - add-nbo/add-nbo/main.pro
+ - add-nbo/add-nbo/add-nbo.pro
  - add-nbo/build-add-nbo-Desktop_Qt_5_15_0_GCC_64bit-Debug/add-nbo
  - add-nbo/build-add-nbo-Desktop_Qt_5_15_0_GCC_64bit-Debug/Makefile
